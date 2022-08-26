@@ -15,6 +15,3 @@ Any known issues with your simulation:
 
 Honor Pledge: 
 I have abided by the Wheaton College Honor Code and all work below was performed by Alex Pinette.
-
-Notes:
-Like you said in the email exchange we had, I asked about the output counters, and I presented a few options so that the user has the most information from the simulation.
